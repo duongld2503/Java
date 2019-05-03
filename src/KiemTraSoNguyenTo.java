@@ -16,7 +16,7 @@ public class KiemTraSoNguyenTo {
 
             if (count == 2){
                 System.out.println("day la so nguyen to");
-            }
+            } else System.out.println("day khong phai la so nguyen to");
 //        }
     }
 }
